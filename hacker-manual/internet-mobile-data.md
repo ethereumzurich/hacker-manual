@@ -10,6 +10,8 @@ Be aware that Switzerland is **not** part of the EU, nor the EEA, where from Jun
 European providers treat Switzerland very differently: a few charge the same as within the EU zone, some limit usage in Switzerland, but many add a substantial surcharge on consumptions while roaming in Switzerland. Better check your EU/EEA provider first before use, or buy a local SIM instead.
 {% endhint %}
 
+### Local operators
+
 Recommended local SIM/eSIM providers:
 
 * Digital Republic - [https://digitalrepublic.ch/en/](https://digitalrepublic.ch/en/)
