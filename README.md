@@ -70,6 +70,10 @@ EthereumZuri.ch Hackathon is organized by [UTXO Foundation](https://utxo.foundat
 [food-and-drinks.md](hacker-manual/food-and-drinks.md)
 {% endcontent-ref %}
 
+{% content-ref url="hacker-manual/internet-mobile-data.md" %}
+[internet-mobile-data.md](hacker-manual/internet-mobile-data.md)
+{% endcontent-ref %}
+
 {% content-ref url="hacker-manual/hacking-rules.md" %}
 [hacking-rules.md](hacker-manual/hacking-rules.md)
 {% endcontent-ref %}
