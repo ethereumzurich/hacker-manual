@@ -5,6 +5,7 @@
   * [🏨 Venues](hacker-manual/venues.md)
   * [🗺 Orientation Map](hacker-manual/orientation-map.md)
   * [🍽 Food and drinks](hacker-manual/food-and-drinks.md)
+  * [📶 Internet / Mobile data](hacker-manual/internet-mobile-data.md)
   * [⚖ Hacking Rules](hacker-manual/hacking-rules.md)
   * [🏆 Prizes and bounties](hacker-manual/prizes-and-bounties.md)
   * [🫂 Finding a Team](hacker-manual/finding-a-team.md)
