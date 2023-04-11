@@ -38,6 +38,8 @@ Our hackathon is IRL, we expect all hackers to show up in person.
 
 The capacity of the hackathon will be approximately 100 hackers and fields of interest will be mainly from the following areas:
 
+### Hackathon themes
+
 * Ethereum development
 * Virtual machines and blockchain execution
 * Zero-knowledge proofs

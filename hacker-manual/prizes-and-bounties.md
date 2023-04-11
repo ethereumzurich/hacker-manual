@@ -12,7 +12,7 @@ We are still working on finalizing the prizes. Final prizes and bounties will be
 
 ### **Open track - quadratic voting**
 
-You decide who wins! Every project is eligible, given they are aligned with the hackathon's theme and respecting [the rules](hacking-rules.md). The open track will be judged by everyone attending using their EthereumZuri.ch Soulbound token received upon registration ([more about judging](judging.md)).
+You decide who wins! Every project is eligible, given they are aligned with [the hackathon themes](../#hackathon-themes) and respecting [the rules](hacking-rules.md). The open track will be judged by everyone attending using their EthereumZuri.ch Soulbound token received upon registration ([more about judging](judging.md)).
 
 * :first\_place: 1st place: $1500
 * :second\_place: 2nd place: $1000
