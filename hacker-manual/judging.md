@@ -7,8 +7,8 @@ description: Who will decide the winners
 We have several different types of [Prizes and bounties](prizes-and-bounties.md) within the hackathon - each will be judged in a different way:
 
 * **General prize pool**
-  * ****[**Open track - Quadratic Voting**](judging.md#quadratic-voting) - The winners of the [Open track](prizes-and-bounties.md#open-track-quadratic-voting) will be decided by all visitors of EthereumZuri.ch by quadratic voting (including visitors of the conference) - [more info about Quadratic Voting](quadratic-voting.md).
-  * ****[**Meta awards**](judging.md#meta-awards-irl-judges) - The best projects according to individual aspects will be judged by a jury on site.
+  * [**Open track - Quadratic Voting**](judging.md#quadratic-voting) - The winners of the [Open track](prizes-and-bounties.md#open-track-quadratic-voting) will be decided by all visitors of EthereumZuri.ch by quadratic voting (including visitors of the conference) - [more info about Quadratic Voting](quadratic-voting.md).
+  * [**Judges' favourites** ](judging.md#judges-favourites)- The best projects judged by a jury on site.
 * **Sponsor bounties** - The winners of the [sponsor bounties](prizes-and-bounties.md#sponsor-bounties) are decided by the sponsors themselves.
 
 ## Open track - Quadratic Voting
@@ -19,7 +19,7 @@ More information about quadratic voting can be found on a separate page:
 [quadratic-voting.md](quadratic-voting.md)
 {% endcontent-ref %}
 
-## Meta awards - IRL judging
+## Judges' favourites
 
 Traditional style of deciding the winners - judges watch the live pitches of each team and check the project submission asychronously digitally.
 

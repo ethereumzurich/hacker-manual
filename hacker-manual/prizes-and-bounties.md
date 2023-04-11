@@ -14,15 +14,13 @@ We are still working on finalizing the prizes. Final prizes and bounties will be
 
 You decide who wins! Every project is eligible, given they are aligned with the hackathon's theme and respecting [the rules](hacking-rules.md). The open track will be judged by everyone attending using their EthereumZuri.ch Soulbound token received upon registration ([more about judging](judging.md)).
 
-* :first\_place: 1st place: TBA
-* :second\_place: 2nd place: TBA
-* :third\_place: 3nd place: TBA
+* :first\_place: 1st place: $1500
+* :second\_place: 2nd place: $1000
+* :third\_place: 3nd place: $500
 
-### Meta awards
+### Judges' favourites
 
-Meta awards reward certain aspects of your project. All projects are eligible. The winners will be determined by an [IRL jury](judging.md).
-
-* TBA
+An [IRL jury](judging.md) will be on site to divide $2000 among the top projects. All projects are eligible.
 
 ## Sponsor Bounties
 
