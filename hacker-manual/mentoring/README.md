@@ -10,7 +10,7 @@ All mentors are listed below, including their telegram account through which you
 
 If you don't know who to contact specifically, or have a general question - you can always use our [Telegram group for hackers](../telegram-group.md).
 
-## List of mentors (8)
+## List of mentors (14)
 
 {% hint style="info" %}
 The full list of mentors will be available a few days before the event.
