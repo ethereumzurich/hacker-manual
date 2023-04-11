@@ -4,6 +4,8 @@ Thank you for your interest in becoming a mentor at our hackathon. We welcome me
 
 The hackathon takes place on friday - sunday April 14-16, 2023 and we would be happy to have you available to support hackers from at least the opening of the hackathon (Friday afternoon) to the closing of application submissions (Sunday morning).
 
+Your goal is to help hackers with their problems and questions. Not to compete with them (it is not possible to be also a hacker) or to promote your own product (unless you are a sponsor).
+
 If you would like to be a mentor, please write [@treecz](https://t.me/treecz).
 
 ## About you - information we need
