@@ -24,12 +24,13 @@ An [IRL jury](judging.md) will be on site to divide $2000 among the top projects
 
 ## Sponsor Bounties
 
-You can find all sponsor bounties in [bounties repository](https://github.com/ethereumzurich/sponsor-bounties). The winners of the sponsorship awards and the distribution of prizes are decided by the sponsors themselves.
+You can find all sponsor bounties in [bounties repository](https://github.com/ethereumzurich/sponsor-bounties/issues). The winners of the sponsorship awards and the distribution of prizes are decided by the sponsors themselves.
 
 {% hint style="warning" %}
 To be able to get specific bounty, you need to submit your project submission link directly as a comment to the corresponding issue on GitHub.
 {% endhint %}
 
-Available sponsor bounties:
+Available sponsor bounties ([see list on GitHub](https://github.com/ethereumzurich/sponsor-bounties/issues)):
 
-* TBA
+* [DataverseOS Web3 Functions](https://github.com/ethereumzurich/sponsor-bounties/issues/2) - 1000 USDC
+* [Gelato Web3 Functions](https://github.com/ethereumzurich/sponsor-bounties/issues/1) - 750$ in GEL
