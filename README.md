@@ -46,8 +46,6 @@ The capacity of the hackathon will be approximately 100 hackers and fields of in
 * Data availability & security
 * Cryptography & academic research
 
-The exact tracks will be announced few weeks before the hackathon.
-
 The hackathon will take place in an offline form with the option to attend online once one or more of the team members attends on site.&#x20;
 
 Voting on the quality of individual projects will not only be up to dedicated judges, but will also be decided by the hackathon participants themselves through quadratic voting.
