@@ -15,6 +15,7 @@
   * [🧑⚖ Judging](hacker-manual/judging.md)
   * [🗳 Quadratic Voting](hacker-manual/quadratic-voting.md)
   * [💬 Telegram group](hacker-manual/telegram-group.md)
+* [💖 Code of conduct](code-of-conduct.md)
 * [🚊 Travel and Accommodation](travel-and-accommodation/README.md)
   * [✈ Travelling to Zürich](travel-and-accommodation/travelling-to-zuerich.md)
   * [🚋 Zürich Public transport](travel-and-accommodation/zuerich-public-transport.md)
