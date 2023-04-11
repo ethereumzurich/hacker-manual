@@ -4,10 +4,6 @@ description: What you can win
 
 # 🏆 Prizes and bounties
 
-{% hint style="info" %}
-We are still working on finalizing the prizes. Final prizes and bounties will be announced at the Opening ceremony at the latest.
-{% endhint %}
-
 ## General prize pool
 
 ### **Open track - quadratic voting**
