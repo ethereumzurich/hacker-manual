@@ -13,6 +13,7 @@ These are the hackathon rules, please respect them without exception.
 * Teams that have members joining remotely must have a member present on the venue for the judging.
 * Please comply with all instructions from EthereumZurich organizers
 * The decision of judges or quadraticaly voted is final in terms of determining prizes and awards
+* Please respect our [Code of Conduct](../code-of-conduct.md)!
 
 ### Minimum requirements to be judged
 
