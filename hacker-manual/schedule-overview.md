@@ -18,8 +18,8 @@
 
 * 09:00 - 10:00 - [☕](https://emojipedia.org/hot-beverage/) Breakfast (Hacker House)
 * **11:00 - Project submission deadline**
+* 11:00 - 14:00 - [🍽️](https://emojipedia.org/emoji/%F0%9F%8D%BD%EF%B8%8F/) Lunch (Platte14)
 * 11:30 - 15:00 - Project Judging
 * 12:00 - Quadratic voting intro & how to vote
-* 11:00 - 14:00 - [🍽️](https://emojipedia.org/emoji/%F0%9F%8D%BD%EF%B8%8F/) Lunch (Platte14)
 * **15:30 - Closing ceremony & Winners announcement** (Consensus Stage)
 
