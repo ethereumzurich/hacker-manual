@@ -12,7 +12,7 @@
 * 09:00 - 10:00 - [☕](https://emojipedia.org/hot-beverage/) Breakfast (Hacker House)
 * 11:00 - 14:00 - [🍽️](https://emojipedia.org/emoji/%F0%9F%8D%BD%EF%B8%8F/) Lunch (Platte14)
 * 17:00 - 20:00 - [🍽️](https://emojipedia.org/emoji/%F0%9F%8D%BD%EF%B8%8F/) Dinner (Platte14)
-* 18:00 - 19:30 - Project showcase & Open mic (Execution Stage)
+* 17:00 - 19:00 - Project showcase & Open mic (Execution Stage)
 
 ## **Sunday - April 16th**
 
