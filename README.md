@@ -14,6 +14,7 @@ description: Let's hack together at EthereumZuri.ch - April 14-16, 2023!
 
 ### During the hackathon - April 14-16, 2023
 
+* Register at main conference venue
 * Mint your unique [SBT token](hacker-manual/quadratic-voting.md) for Quadratic Voting
 * Take advantage of our [mentors](hacker-manual/mentoring/)
 * [Submit your project](hacker-manual/submissions.md) before Sunday 11am

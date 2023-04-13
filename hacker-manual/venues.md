@@ -6,7 +6,7 @@ description: Overview of the locations
 
 The EthereumZurich is divided into multiple locations within the **University of Zurich (UZH)** a few minutes' walk apart (see [Orientation map](orientation-map.md)).
 
-* [Conference](venues.md#conference-hah-building) - HAH building (Häldeliweg 2)
+* [Conference](venues.md#conference-hah-building) (main venue) - HAH building (Häldeliweg 2)
 * [Hacker house](venues.md#hacker-house-glt-building) - GLT building (Gloriastrasse 12b)
 * [Hacker food](venues.md#hacker-food-platte-14) - Platte 14 (Plattenstrasse 14)
 
