@@ -30,3 +30,4 @@ Available sponsor bounties ([see list on GitHub](https://github.com/ethereumzuri
 
 * [DataverseOS Web3 Functions](https://github.com/ethereumzurich/sponsor-bounties/issues/2) - 1000 USDC
 * [Gelato Web3 Functions](https://github.com/ethereumzurich/sponsor-bounties/issues/1) - 750$ in GEL
+* [ API3 DAO - Use of first-party oracles within zero-knowledge DeFi](https://github.com/ethereumzurich/sponsor-bounties/issues/3) - $1000

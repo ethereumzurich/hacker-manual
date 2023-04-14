@@ -1,7 +1,7 @@
 # 🕗 Schedule overview
 
 {% hint style="info" %}
-Hacker registration will be available at the main conference venue at these times:
+Hacker registration will be available at the [main conference venue](venues.md) (HAH building, Häldeliweg 2) at these times:
 
 * Friday 10:00 - 18:00
 * Saturday 8:00 - 18:00
